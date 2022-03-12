@@ -2,3 +2,4 @@ created on testing branch
 
 update in dev branch
 update in master branch for rebase example
+update in master branch for rebase example using smart git
